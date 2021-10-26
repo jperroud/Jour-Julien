@@ -1,3 +1,3 @@
 # Jour-Julien
-## Calcul du jour julien en Pascal
+## Calcul du jour julien en fortran95
 
