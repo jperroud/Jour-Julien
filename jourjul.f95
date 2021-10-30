@@ -1,12 +1,12 @@
 ! -------------------------------------------------
-!! CALCUL DU JOUR JULIEN
+! CALCUL DU JOUR JULIEN
 !
 ! Fortran 95, format libre 
 !
 ! Perroud Jean-Pierre,  mai 2010
 ! Mise à jour           oct 2021
-!! --------------------------------------------------    
-!
+! --------------------------------------------------    
+
 
 ! --------------------------------
 subroutine ligne (car)
@@ -21,7 +21,6 @@ subroutine ligne (car)
 end subroutine ligne
 
 ! ---------------------------------
-
 program jourjulien
 
 ! remarques et informations
@@ -44,7 +43,7 @@ program jourjulien
   call  ligne('-') 
   print *,'Le 1er janvier -4712 à 12h00, représente le jour julien = 0    ' 
   print *,'Le Jour Julien Modifié (anglais MJD: Modified Julian Day)      '
-  print *,'est compt� depuis le 17 nov. 1858 à 0h00 soit  = JJ - 2400000.5'
+  print *,'est compté depuis le 17 nov. 1858 à 0h00 soit  = JJ - 2400000.5'
   print *,'Le MJD ou MD  est couramment utilisé pour les éphémérides. NDLR'
   print *,' '
   print *,'Jean-Pierre Perroud, mai 2010' 
@@ -70,7 +69,6 @@ program jourjulien
   
 end program jourjulien
 
-!
 ! ----------------------------------
    
 
