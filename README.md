@@ -3,3 +3,5 @@
 
 Exercice de compilation avec le fortran 95 
 Le but ici est de calcul une date en jour julien !
+
+Enjoy - jpp octobre 2021
