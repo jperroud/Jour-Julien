@@ -63,7 +63,7 @@ program jourjulien
 ! affichage du résultat
   call  ligne('-')
   write (*,*) 'Jour julien         (JJ) : ', JJ
-  write (*,*) 'Jour julien modifi� (MD) : ', MD
+  write (*,*) 'Jour julien modifié (MD) : ', MD
   call  ligne('=')
   print *,' '
   
