@@ -1,6 +1,13 @@
 # Jour-Julien
 ## Calcul du jour julien en fortran95
+<!-- Start Document Outline -->
 
+* [Calcul du jour julien en fortran95](#calcul-du-jour-julien-en-fortran95)
+	* [Compilation du fichier .f95](#compilation-du-fichier-f95)
+	* [Utilisation du fichier .exe](#utilisation-du-fichier-exe)
+* [´´´](#section)
+
+<!-- End Document Outline -->
 Exercice de compilation avec le fortran 95 
 Le but ici est de calculer une date en jour julien !
 
@@ -17,18 +24,18 @@ Le Jour Julien Modifié (anglais MJD: Modified Julian Day      '
 ### Compilation du fichier .f95
 La compilation se fait avec gfortran dans le termianl
 
-´´´
+`$ gfortran -o jourjul jourjul.f95
+`
 
-$ gfortran -o jourjul jourjul.f95
-
-´´´
 
 
 ### Utilisation du fichier .exe 
-$ ./jourjul.exe
+`$ ./jourjul.exe
+`
 
-´´´
- =================================================================
+ 
+`
+=================================================================
           C A L C U L   D U   J O U R   J U L I E N
                   ET DU JOUR JULIEN MODIFIE
  -----------------------------------------------------------------
@@ -50,8 +57,7 @@ $ ./jourjul.exe
  =================================================================
 
 jp@EARTH MINGW64 /y/Progra/fortran/Jour-Julien (main)
-
-´´´
+`
 
 
 Partage sur GitHub & Bitbucket :) 
