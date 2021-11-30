@@ -7,7 +7,6 @@
 # le motif de la mofication
 
 if [ -z $1 ]
-
 then
     echo "Donner un texte, merci "
 else
