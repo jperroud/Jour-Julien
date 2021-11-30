@@ -8,9 +8,9 @@
 
 if [ -z $1 ]
 then
-    echo "Donner un texte, merci "
+    echo "Donner un commentaire, merci !"
 else
-    echo "Le texte passé est : " $1
+    echo "Le commentaire est : " $1
     git add .
     git commit -m "$1"
     git push -u origin main
