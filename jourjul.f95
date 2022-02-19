@@ -1,10 +1,11 @@
-! -------------------------------------------------
+! -------------------------------------------------------------
 ! CALCUL DU JOUR JULIEN
 !
 ! Fortran 95, format libre 
 !
 ! Perroud Jean-Pierre,  mai 2010
-! Mise à jour           oct 2021
+! Mise à jour           oct 2021 
+!   puis via GitHub:  https://github.com/jperroud/Jour-Julien 
 ! --------------------------------------------------    
 
 
