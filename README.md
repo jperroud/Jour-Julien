@@ -16,10 +16,12 @@ Le Jour Julien Modifié (anglais MJD: Modified Julian Day      '
   Le MJD ou MD  est couramment utilisé pour les éphémérides.
   
 
+
 >Références concernant le Jour Julien :   
 >* [Jour Julien - Wikipédia](https://fr.wikipedia.org/wiki/Jour_julien)  
 >* [FrWiki](https://www.frwiki.org/wiki/Jour_julien) 
 >* [Equations du temps - Kikipédia](https://fr.wikipedia.org/wiki/%C3%89quation_du_temps) 
+
 
 
 ---
@@ -64,4 +66,10 @@ jp@EARTH MINGW64 /y/Progra/fortran/Jour-Julien (main)
 
 Partage sur GitHub & Bitbucket :) 
 
-Enjoy - jpp octobre 2021
+``` 
+```
+
+---
+_Enjoy - jpp octobre 2021_
+
+
