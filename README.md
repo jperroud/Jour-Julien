@@ -33,7 +33,7 @@ La compilation se fait avec gfortran dans le terminal
 
 
 
-### Utilisation du fichier .exe 
+### Utilisation du fichier executable (.exe) 
 `$ ./jourjul.exe
 `
 
