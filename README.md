@@ -8,7 +8,7 @@
 * [´´´](#section)
 
 <!-- End Document Outline -->
-Exercice de compilation avec le fortran 95 
+Exercice de compilation avec le fortran 95. 
 Le but ici est de calculer une date en jour julien !
 
 Le Jour Julien Modifié (anglais MJD: Modified Julian Day      '
@@ -26,7 +26,7 @@ Le Jour Julien Modifié (anglais MJD: Modified Julian Day      '
 
 ---
 ### Compilation du fichier .f95
-La compilation se fait avec gfortran dans le termianl
+La compilation se fait avec gfortran dans le terminal
 
 `$ gfortran -o jourjul jourjul.f95
 `
