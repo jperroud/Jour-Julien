@@ -3,7 +3,7 @@
 # novembre 2021
 
 # go est un script shell pour sycroniser git et github
-# Il faut donner en quelques mots entre parenthèses
+# Il faut donner en quelques mots et entre parenthèses
 # le motif de la mofication
 
 if [ -z $1 ]
