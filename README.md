@@ -39,18 +39,18 @@ La compilation se fait avec gfortran dans le terminal
 
  
 `
-=================================================================
+===================================================================
           C A L C U L   D U   J O U R   J U L I E N
                   ET DU JOUR JULIEN MODIFIE
- -----------------------------------------------------------------
- Le 1er janvier -4712 à 12h00, représente le jour julien = 0
+ -------------------------------------------------------------------
+ Le 1er janvier de l'an -4712 à 12h00, représente le jour julien = 0
  Le Jour Julien Modifié (anglais MJD: Modified Julian Day)
  est compté depuis le 17 nov. 1858 à 0h00 soit  = JJ - 2400000.5
  Le MJD ou MD  est couramment utilisé pour les éphémérides. NDLR
 
  Jean-Pierre Perroud, mai 2010
 
- =================================================================
+ ===================================================================
 
  Donner la date sous la forme JJ,MM,AAAA : 06,11,2021
 
