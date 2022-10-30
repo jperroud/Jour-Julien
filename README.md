@@ -33,7 +33,7 @@ La compilation se fait avec gfortran dans le terminal
 
 
 
-### Utilisation du fichier executable (.exe) 
+### Utilisation du fichier exécutable (.exe) 
 `$ ./jourjul.exe
 `
 
@@ -71,6 +71,8 @@ Partage sur GitHub & Bitbucket :)
 ```
 
 ---
-_Enjoy - jpp octobre 2021_
+_Enjoy - jpp 
+  octobre 2021
+  octobre 2022
 
 

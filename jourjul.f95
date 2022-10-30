@@ -5,6 +5,7 @@
 !
 ! Perroud Jean-Pierre,  mai 2010
 ! Mise à jour           oct 2021 
+!                       oct 2022
 !   puis via GitHub:  https://github.com/jperroud/Jour-Julien 
 ! --------------------------------------------------    
 
